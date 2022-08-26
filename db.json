@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": 1, "name": "elie" , "img: "https://www.imgacademy.com/themes/custom/imgacademy/images/helpbox-contact.jpg"},
+    { "id": 1, "name": "elie" , "img": "https://www.imgacademy.com/themes/custom/imgacademy/images/helpbox-contact.jpg"},
     { "id": 2, "name": "joseph" , "img": "https://www.imgacademy.com/sites/default/files/2022-07/img-homepage-meta.jpg"},
     { "id": 3, "name": "avi", "img": "https://i.ytimg.com/vi/vpdMcYtJVC8/maxresdefault.jpg" }
   ]
